@@ -14,4 +14,7 @@ public class Operaciones {
       public int division(int n1, int n2){
         return n1/n2;
     }
+          public int modulo(int n1, int n2){
+        return n1/n2;
+    }
 }
